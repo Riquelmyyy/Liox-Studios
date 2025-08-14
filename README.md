@@ -1,4 +1,4 @@
-# 🎮 Liox Studios – Jogos e Experiências Interativas
+# 🎮 Liox Studios
 
 Bem-vindo ao repositório oficial da **Liox**, uma pequena empresa dedicada a criar **jogos digitais e experiências interativas** de qualidade. Exploramos diversos gêneros e estilos, sempre buscando combinar **histórias envolventes, mecânicas inovadoras e arte marcante**.
 
